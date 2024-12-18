@@ -1,12 +1,12 @@
 ### Set On-Chain Tax Rate to 1.5%
 
-This is a proposal to ***increase the on-chain tax rate from 0.5% to 1.5%***, and to leave it in place until a total supply target of 10B LUNC (10,000,000,000) is reached. 
+This is a proposal to ***increase the on-chain tax rate from 0.5% to 1.5%***, and to leave it in place until a total supply ***target of 10B LUNC*** (10,000,000,000) is reached. 
 
 With the 80/20% tax split this would be a tax breakdown of: 
 
-- 1.2% burn tax
-- 0.15% to the community pool
-- 0.15% to the oracle pool. 
+- ***1.2% burn tax***
+- ***0.15% to the community pool***
+- ***0.15% to the oracle pool*** 
 
 The existing 0.5% tax is split:       
 
@@ -16,9 +16,9 @@ The existing 0.5% tax is split:      
 
 This proposal for a 1.5% tax would:
 
-- 3x the burn tax rate, from 0.4% to 1.2%
-- 3x the rate of community pool funding from the tax, from 0.05% to 0.15%
-- 3x the rate of oracle pool funding from the tax, from 0.05% to 0.15%. 
+- ***3x the burn tax rate***, from 0.4% to 1.2%
+- ***3x the rate of community pool funding*** from the tax, from 0.05% to 0.15%
+- ***3x the rate of oracle pool funding*** from the tax, from 0.05% to 0.15%. 
 
 We can expect a ***substantial increase in the rate of LUNC and USTC burns*** from the tax, the community pool funding rate, and funding to the oracle pool for long term staking rewards. 
 
@@ -38,7 +38,7 @@ https://common.xyz/terra-luna-classic-lunc/discussion/24094-set-onchain-tax-rate
 
 ### Voting
 
-- Vote **YES** if you agree to raise the on-chain tax from 0.5% to 1.5%. 
+- Vote **YES** if you agree to ***raise the on-chain tax*** from 0.5% to 1.5%. 
 
 - Vote **NO** if you disagree with raising the on-chain tax to 1.5%. 
 
